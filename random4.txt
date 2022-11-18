@@ -1,3 +1,4 @@
 This is a test using the 'cat' command
 I've made an edit to this text file with this line
 I just made a change to this from my local machine
+Just added this line to random4.txt
